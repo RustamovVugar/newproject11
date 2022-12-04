@@ -1,0 +1,5 @@
+C:\Users\vugarar\Desktop\Project11\CompanyApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\vugarar\Desktop\Project11\CompanyApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vugarar\Desktop\Project11\CompanyApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\vugarar\Desktop\Project11\CompanyApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\vugarar\Desktop\Project11\CompanyApp\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
